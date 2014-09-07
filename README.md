@@ -12,7 +12,7 @@ Grbl includes full acceleration management with look ahead. That means the contr
 
 * [Licensing](https://github.com/grbl/grbl/wiki/Licensing): Grbl v0.9 is free software, released under the GPLv3 license. Obsolete versions of Grbl, v0.8 and prior, are released under the permissive MIT-license. This will ensure Grbl will always be an open-source project while making the code permissive for others.
 
-* For more information and help, check out our **[Wiki pages!](https://github.com/grbl/grbl/wiki)** If you find that the information is out-dated, please to help us keep it updated by editing it or notifying our community! Thanks!
+* For more information and help, check out our future **[Wiki pages!](https://github.com/maaadbob/openpnp-grbl/wiki)** If you find that the information is out-dated, please help us keep it updated by notifying me! Thanks!
 
 * Happy-go-lucky Developer [_2014_]: Bob Beattie, (United Kingdom)
 
